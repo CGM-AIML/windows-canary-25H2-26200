@@ -208,25 +208,42 @@ Future updates will document:
 
 This repository is maintained as a **living case study**.
 
-<details>
-<summary><strong>Representative SDXL Outputs (Click to Expand)</strong></summary>
+### Representative SDXL Outputs
 
 These images are representative final outputs generated during the documented SDXL session.
+
 All images are fully decoded JPGs produced with SDXL + Refiner, 38 denoising steps, CFG 6.8,
 locked seeds, and long-token prompts.
 
-![1152×1536](docs/images/00388-2026-01-11-TempestV0.1-Artistic.jpg)
-![1152×1536](docs/images/00391-2026-01-11-tempestByVlad_baseV01.jpg)
-![1024×1024](docs/images/00414-2026-01-11-tempestByVlad_baseV01.jpg)
-![1024×1024](docs/images/00064-2026-01-11-sd_xl_base_1.0.jpg)
-![1024×1024](docs/images/00068-2026-01-11-sd_xl_base_1.0.jpg)
-![1152×1152](docs/images/00083-2026-01-11-tempestByVlad_baseV01.jpg)
-![848×1152](docs/images/00190-2026-01-11-tempestByVlad_baseV01.jpg)
-![896×1344](docs/images/00346-2026-01-11-TempestV0.1-Artistic.jpg)
-![1024×1536](docs/images/00376-2026-01-11-TempestV0.1-Artistic.jpg)
-![1152×1536](docs/images/00385-2026-01-11-TempestV0.1-Artistic.jpg)
+#### Example 1
+![1152×1536](docs/images/00064-2026-01-11-sd_xl_base_1.0.jpg)
 
-</details>
+#### Example 2
+![1152×1536](docs/images/00068-2026-01-11-sd_xl_base_1.0.jpg)
+
+#### Example 3
+![1024×1024](docs/images/00083-2026-01-11-tempestByVlad_baseV01.jpg)
+
+#### Example 4
+![1024×1024](docs/images/00190-2026-01-11-tempestByVlad_baseV01.jpg)
+
+#### Example 5
+![1024×1024](docs/images/00191-2026-01-11-tempestByVlad_baseV01.jpg)
+
+#### Example 6
+![1152×1152](docs/images/00196-2026-01-11-tempestByVlad_baseV01.jpg)
+
+#### Example 7
+![848×1152](docs/images/00346-2026-01-11-TempestV0.1-Artistic.jpg)
+
+#### Example 8
+![896×1344](docs/images/00376-2026-01-11-TempestV0.1-Artistic.jpg)
+
+#### Example 9
+![1024×1536](docs/images/00391-2026-01-11-tempestByVlad_baseV01.jpg)
+
+#### Example 10
+![1152×1536](docs/images/00414-2026-01-11-tempestByVlad_baseV01.jpg)
 
 ---
 
